@@ -1,0 +1,335 @@
+[
+  {
+    "size": 7,
+    "samples": [
+      {
+        "results": [
+          { "comparison": 12480, "time": 3, "algo": "selectionSort" },
+          { "comparison": 8255, "time": 1, "algo": "insertionSort" },
+          { "comparison": 1920, "time": 1, "algo": "mergeSort" },
+          { "comparison": 1224, "time": 0, "algo": "shellSort" }
+        ]
+      },
+      {
+        "results": [
+          { "comparison": 12480, "time": 0, "algo": "selectionSort" },
+          { "comparison": 8255, "time": 0, "algo": "insertionSort" },
+          { "comparison": 1920, "time": 1, "algo": "mergeSort" },
+          { "comparison": 1224, "time": 0, "algo": "shellSort" }
+        ]
+      },
+      {
+        "results": [
+          { "comparison": 12480, "time": 0, "algo": "selectionSort" },
+          { "comparison": 8255, "time": 1, "algo": "insertionSort" },
+          { "comparison": 1920, "time": 0, "algo": "mergeSort" },
+          { "comparison": 1224, "time": 0, "algo": "shellSort" }
+        ]
+      },
+      {
+        "results": [
+          { "comparison": 12480, "time": 0, "algo": "selectionSort" },
+          { "comparison": 8255, "time": 0, "algo": "insertionSort" },
+          { "comparison": 1920, "time": 0, "algo": "mergeSort" },
+          { "comparison": 1224, "time": 0, "algo": "shellSort" }
+        ]
+      }
+    ]
+  },
+  {
+    "size": 8,
+    "samples": [
+      {
+        "results": [
+          { "comparison": 49536, "time": 1, "algo": "selectionSort" },
+          { "comparison": 32895, "time": 2, "algo": "insertionSort" },
+          { "comparison": 4352, "time": 0, "algo": "mergeSort" },
+          { "comparison": 2825, "time": 0, "algo": "shellSort" }
+        ]
+      },
+      {
+        "results": [
+          { "comparison": 49536, "time": 0, "algo": "selectionSort" },
+          { "comparison": 32895, "time": 19, "algo": "insertionSort" },
+          { "comparison": 4352, "time": 0, "algo": "mergeSort" },
+          { "comparison": 2825, "time": 2, "algo": "shellSort" }
+        ]
+      },
+      {
+        "results": [
+          { "comparison": 49536, "time": 2, "algo": "selectionSort" },
+          { "comparison": 32895, "time": 36, "algo": "insertionSort" },
+          { "comparison": 4352, "time": 0, "algo": "mergeSort" },
+          { "comparison": 2825, "time": 0, "algo": "shellSort" }
+        ]
+      },
+      {
+        "results": [
+          { "comparison": 49536, "time": 2, "algo": "selectionSort" },
+          { "comparison": 32895, "time": 0, "algo": "insertionSort" },
+          { "comparison": 4352, "time": 0, "algo": "mergeSort" },
+          { "comparison": 2825, "time": 0, "algo": "shellSort" }
+        ]
+      }
+    ]
+  },
+  {
+    "size": 9,
+    "samples": [
+      {
+        "results": [
+          { "comparison": 197376, "time": 3, "algo": "selectionSort" },
+          { "comparison": 131327, "time": 0, "algo": "insertionSort" },
+          { "comparison": 9728, "time": 9, "algo": "mergeSort" },
+          { "comparison": 6410, "time": 1, "algo": "shellSort" }
+        ]
+      },
+      {
+        "results": [
+          { "comparison": 197376, "time": 0, "algo": "selectionSort" },
+          { "comparison": 131327, "time": 1, "algo": "insertionSort" },
+          { "comparison": 9728, "time": 0, "algo": "mergeSort" },
+          { "comparison": 6410, "time": 1, "algo": "shellSort" }
+        ]
+      },
+      {
+        "results": [
+          { "comparison": 197376, "time": 1, "algo": "selectionSort" },
+          { "comparison": 131327, "time": 0, "algo": "insertionSort" },
+          { "comparison": 9728, "time": 5, "algo": "mergeSort" },
+          { "comparison": 6410, "time": 3, "algo": "shellSort" }
+        ]
+      },
+      {
+        "results": [
+          { "comparison": 197376, "time": 0, "algo": "selectionSort" },
+          { "comparison": 131327, "time": 0, "algo": "insertionSort" },
+          { "comparison": 9728, "time": 0, "algo": "mergeSort" },
+          { "comparison": 6410, "time": 0, "algo": "shellSort" }
+        ]
+      }
+    ]
+  },
+  {
+    "size": 10,
+    "samples": [
+      {
+        "results": [
+          { "comparison": 787968, "time": 1, "algo": "selectionSort" },
+          { "comparison": 524799, "time": 0, "algo": "insertionSort" },
+          { "comparison": 21504, "time": 0, "algo": "mergeSort" },
+          { "comparison": 14347, "time": 1, "algo": "shellSort" }
+        ]
+      },
+      {
+        "results": [
+          { "comparison": 787968, "time": 1, "algo": "selectionSort" },
+          { "comparison": 524799, "time": 0, "algo": "insertionSort" },
+          { "comparison": 21504, "time": 1, "algo": "mergeSort" },
+          { "comparison": 14347, "time": 6, "algo": "shellSort" }
+        ]
+      },
+      {
+        "results": [
+          { "comparison": 787968, "time": 3, "algo": "selectionSort" },
+          { "comparison": 524799, "time": 1, "algo": "insertionSort" },
+          { "comparison": 21504, "time": 0, "algo": "mergeSort" },
+          { "comparison": 14347, "time": 0, "algo": "shellSort" }
+        ]
+      },
+      {
+        "results": [
+          { "comparison": 787968, "time": 3, "algo": "selectionSort" },
+          { "comparison": 524799, "time": 1, "algo": "insertionSort" },
+          { "comparison": 21504, "time": 0, "algo": "mergeSort" },
+          { "comparison": 14347, "time": 0, "algo": "shellSort" }
+        ]
+      }
+    ]
+  },
+  {
+    "size": 11,
+    "samples": [
+      {
+        "results": [
+          { "comparison": 3148800, "time": 6, "algo": "selectionSort" },
+          { "comparison": 2098175, "time": 4, "algo": "insertionSort" },
+          { "comparison": 47104, "time": 1, "algo": "mergeSort" },
+          { "comparison": 31756, "time": 0, "algo": "shellSort" }
+        ]
+      },
+      {
+        "results": [
+          { "comparison": 3148800, "time": 7, "algo": "selectionSort" },
+          { "comparison": 2098175, "time": 5, "algo": "insertionSort" },
+          { "comparison": 47104, "time": 1, "algo": "mergeSort" },
+          { "comparison": 31756, "time": 0, "algo": "shellSort" }
+        ]
+      },
+      {
+        "results": [
+          { "comparison": 3148800, "time": 4, "algo": "selectionSort" },
+          { "comparison": 2098175, "time": 3, "algo": "insertionSort" },
+          { "comparison": 47104, "time": 1, "algo": "mergeSort" },
+          { "comparison": 31756, "time": 0, "algo": "shellSort" }
+        ]
+      },
+      {
+        "results": [
+          { "comparison": 3148800, "time": 5, "algo": "selectionSort" },
+          { "comparison": 2098175, "time": 1, "algo": "insertionSort" },
+          { "comparison": 47104, "time": 1, "algo": "mergeSort" },
+          { "comparison": 31756, "time": 0, "algo": "shellSort" }
+        ]
+      }
+    ]
+  },
+  {
+    "size": 12,
+    "samples": [
+      {
+        "results": [
+          { "comparison": 12589056, "time": 24, "algo": "selectionSort" },
+          { "comparison": 8390655, "time": 8, "algo": "insertionSort" },
+          { "comparison": 102400, "time": 2, "algo": "mergeSort" },
+          { "comparison": 69645, "time": 0, "algo": "shellSort" }
+        ]
+      },
+      {
+        "results": [
+          { "comparison": 12589056, "time": 19, "algo": "selectionSort" },
+          { "comparison": 8390655, "time": 7, "algo": "insertionSort" },
+          { "comparison": 102400, "time": 1, "algo": "mergeSort" },
+          { "comparison": 69645, "time": 0, "algo": "shellSort" }
+        ]
+      },
+      {
+        "results": [
+          { "comparison": 12589056, "time": 15, "algo": "selectionSort" },
+          { "comparison": 8390655, "time": 8, "algo": "insertionSort" },
+          { "comparison": 102400, "time": 1, "algo": "mergeSort" },
+          { "comparison": 69645, "time": 0, "algo": "shellSort" }
+        ]
+      },
+      {
+        "results": [
+          { "comparison": 12589056, "time": 13, "algo": "selectionSort" },
+          { "comparison": 8390655, "time": 7, "algo": "insertionSort" },
+          { "comparison": 102400, "time": 0, "algo": "mergeSort" },
+          { "comparison": 69645, "time": 0, "algo": "shellSort" }
+        ]
+      }
+    ]
+  },
+  {
+    "size": 13,
+    "samples": [
+      {
+        "results": [
+          { "comparison": 50343936, "time": 55, "algo": "selectionSort" },
+          { "comparison": 33558527, "time": 23, "algo": "insertionSort" },
+          { "comparison": 221184, "time": 1, "algo": "mergeSort" },
+          { "comparison": 151566, "time": 0, "algo": "shellSort" }
+        ]
+      },
+      {
+        "results": [
+          { "comparison": 50343936, "time": 46, "algo": "selectionSort" },
+          { "comparison": 33558527, "time": 20, "algo": "insertionSort" },
+          { "comparison": 221184, "time": 1, "algo": "mergeSort" },
+          { "comparison": 151566, "time": 0, "algo": "shellSort" }
+        ]
+      },
+      {
+        "results": [
+          { "comparison": 50343936, "time": 48, "algo": "selectionSort" },
+          { "comparison": 33558527, "time": 43, "algo": "insertionSort" },
+          { "comparison": 221184, "time": 1, "algo": "mergeSort" },
+          { "comparison": 151566, "time": 0, "algo": "shellSort" }
+        ]
+      },
+      {
+        "results": [
+          { "comparison": 50343936, "time": 59, "algo": "selectionSort" },
+          { "comparison": 33558527, "time": 28, "algo": "insertionSort" },
+          { "comparison": 221184, "time": 1, "algo": "mergeSort" },
+          { "comparison": 151566, "time": 0, "algo": "shellSort" }
+        ]
+      }
+    ]
+  },
+  {
+    "size": 14,
+    "samples": [
+      {
+        "results": [
+          { "comparison": 201351168, "time": 145, "algo": "selectionSort" },
+          { "comparison": 134225919, "time": 86, "algo": "insertionSort" },
+          { "comparison": 475136, "time": 1, "algo": "mergeSort" },
+          { "comparison": 327695, "time": 0, "algo": "shellSort" }
+        ]
+      },
+      {
+        "results": [
+          { "comparison": 201351168, "time": 150, "algo": "selectionSort" },
+          { "comparison": 134225919, "time": 129, "algo": "insertionSort" },
+          { "comparison": 475136, "time": 2, "algo": "mergeSort" },
+          { "comparison": 327695, "time": 1, "algo": "shellSort" }
+        ]
+      },
+      {
+        "results": [
+          { "comparison": 201351168, "time": 193, "algo": "selectionSort" },
+          { "comparison": 134225919, "time": 91, "algo": "insertionSort" },
+          { "comparison": 475136, "time": 1, "algo": "mergeSort" },
+          { "comparison": 327695, "time": 1, "algo": "shellSort" }
+        ]
+      },
+      {
+        "results": [
+          { "comparison": 201351168, "time": 181, "algo": "selectionSort" },
+          { "comparison": 134225919, "time": 82, "algo": "insertionSort" },
+          { "comparison": 475136, "time": 2, "algo": "mergeSort" },
+          { "comparison": 327695, "time": 0, "algo": "shellSort" }
+        ]
+      }
+    ]
+  },
+  {
+    "size": 15,
+    "samples": [
+      {
+        "results": [
+          { "comparison": 805355520, "time": 576, "algo": "selectionSort" },
+          { "comparison": 536887295, "time": 330, "algo": "insertionSort" },
+          { "comparison": 1015808, "time": 2, "algo": "mergeSort" },
+          { "comparison": 704528, "time": 1, "algo": "shellSort" }
+        ]
+      },
+      {
+        "results": [
+          { "comparison": 805355520, "time": 573, "algo": "selectionSort" },
+          { "comparison": 536887295, "time": 317, "algo": "insertionSort" },
+          { "comparison": 1015808, "time": 5, "algo": "mergeSort" },
+          { "comparison": 704528, "time": 0, "algo": "shellSort" }
+        ]
+      },
+      {
+        "results": [
+          { "comparison": 805355520, "time": 546, "algo": "selectionSort" },
+          { "comparison": 536887295, "time": 308, "algo": "insertionSort" },
+          { "comparison": 1015808, "time": 2, "algo": "mergeSort" },
+          { "comparison": 704528, "time": 0, "algo": "shellSort" }
+        ]
+      },
+      {
+        "results": [
+          { "comparison": 805355520, "time": 545, "algo": "selectionSort" },
+          { "comparison": 536887295, "time": 302, "algo": "insertionSort" },
+          { "comparison": 1015808, "time": 1, "algo": "mergeSort" },
+          { "comparison": 704528, "time": 1, "algo": "shellSort" }
+        ]
+      }
+    ]
+  }
+]
